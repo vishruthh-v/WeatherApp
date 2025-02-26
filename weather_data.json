@@ -1,0 +1,354 @@
+[
+    {
+        "current_weather": {
+            "city_name": "Bengaluru",
+            "temperature": 25.18,
+            "humidity": 72,
+            "description": "Broken clouds",
+            "wind_speed": 5.66,
+            "icon": "wi wi-04d"
+        },
+        "forecast": [
+            {
+                "date": "2025-01-13",
+                "temperature": 21.84,
+                "description": "light rain",
+                "icon": "wi wi-10d"
+            },
+            {
+                "date": "2025-01-14",
+                "temperature": 21.15,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-15",
+                "temperature": 20.7,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-16",
+                "temperature": 20.14,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-17",
+                "temperature": 20.63,
+                "description": "few clouds",
+                "icon": "wi wi-02n"
+            }
+        ],
+        "average_temperature": 20.6505,
+        "temp_std_dev": 3.3500007089551493
+    },
+    {
+        "current_weather": {
+            "city_name": "London",
+            "temperature": 3.91,
+            "humidity": 84,
+            "description": "Broken clouds",
+            "wind_speed": 2.24,
+            "icon": "wi wi-04d"
+        },
+        "forecast": [
+            {
+                "date": "2025-01-13",
+                "temperature": 4.38,
+                "description": "broken clouds",
+                "icon": "wi wi-04d"
+            },
+            {
+                "date": "2025-01-14",
+                "temperature": 5.67,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-15",
+                "temperature": 7.91,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-16",
+                "temperature": 6.11,
+                "description": "clear sky",
+                "icon": "wi wi-01n"
+            },
+            {
+                "date": "2025-01-17",
+                "temperature": 3.77,
+                "description": "clear sky",
+                "icon": "wi wi-01n"
+            }
+        ],
+        "average_temperature": 5.360250000000001,
+        "temp_std_dev": 2.000955381186697
+    },
+    {
+        "current_weather": {
+            "city_name": "Bengaluru",
+            "temperature": 25.18,
+            "humidity": 72,
+            "description": "Broken clouds",
+            "wind_speed": 5.66,
+            "icon": "wi wi-04d"
+        },
+        "forecast": [
+            {
+                "date": "2025-01-13",
+                "temperature": 21.84,
+                "description": "light rain",
+                "icon": "wi wi-10d"
+            },
+            {
+                "date": "2025-01-14",
+                "temperature": 21.15,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-15",
+                "temperature": 20.7,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-16",
+                "temperature": 20.14,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-17",
+                "temperature": 20.63,
+                "description": "few clouds",
+                "icon": "wi wi-02n"
+            }
+        ],
+        "average_temperature": 20.6505,
+        "temp_std_dev": 3.3500007089551493
+    },
+    {
+        "current_weather": {
+            "city_name": "Kanija Bhavan",
+            "temperature": 25.14,
+            "humidity": 74,
+            "description": "Broken clouds",
+            "wind_speed": 5.66,
+            "icon": "wi wi-04d"
+        },
+        "forecast": [
+            {
+                "date": "2025-01-13",
+                "temperature": 21.94,
+                "description": "light rain",
+                "icon": "wi wi-10d"
+            },
+            {
+                "date": "2025-01-14",
+                "temperature": 21.31,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-15",
+                "temperature": 20.86,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-16",
+                "temperature": 20.34,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-17",
+                "temperature": 20.81,
+                "description": "few clouds",
+                "icon": "wi wi-02n"
+            }
+        ],
+        "average_temperature": 20.81875,
+        "temp_std_dev": 3.3236096247152735
+    },
+    {
+        "current_weather": {
+            "city_name": "Puducherry",
+            "temperature": 29.21,
+            "humidity": 70,
+            "description": "Broken clouds",
+            "wind_speed": 7.2,
+            "icon": "wi wi-04d"
+        },
+        "forecast": [
+            {
+                "date": "2025-01-13",
+                "temperature": 25.76,
+                "description": "broken clouds",
+                "icon": "wi wi-04d"
+            },
+            {
+                "date": "2025-01-14",
+                "temperature": 25.18,
+                "description": "light rain",
+                "icon": "wi wi-10n"
+            },
+            {
+                "date": "2025-01-15",
+                "temperature": 25.02,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-16",
+                "temperature": 24.28,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-17",
+                "temperature": 24.04,
+                "description": "few clouds",
+                "icon": "wi wi-02n"
+            }
+        ],
+        "average_temperature": 24.59525,
+        "temp_std_dev": 1.8837727934918267
+    },
+    {
+        "current_weather": {
+            "city_name": "London",
+            "temperature": 3.91,
+            "humidity": 84,
+            "description": "Broken clouds",
+            "wind_speed": 2.24,
+            "icon": "wi wi-04d"
+        },
+        "forecast": [
+            {
+                "date": "2025-01-13",
+                "temperature": 4.5,
+                "description": "broken clouds",
+                "icon": "wi wi-04d"
+            },
+            {
+                "date": "2025-01-14",
+                "temperature": 5.67,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-15",
+                "temperature": 7.91,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-16",
+                "temperature": 6.11,
+                "description": "clear sky",
+                "icon": "wi wi-01n"
+            },
+            {
+                "date": "2025-01-17",
+                "temperature": 3.77,
+                "description": "clear sky",
+                "icon": "wi wi-01n"
+            }
+        ],
+        "average_temperature": 5.3715,
+        "temp_std_dev": 1.9971423960248804
+    },
+    {
+        "current_weather": {
+            "city_name": "Bengaluru",
+            "temperature": 25.03,
+            "humidity": 73,
+            "description": "Broken clouds",
+            "wind_speed": 4.63,
+            "icon": "wi wi-04d"
+        },
+        "forecast": [
+            {
+                "date": "2025-01-13",
+                "temperature": 21.8,
+                "description": "light rain",
+                "icon": "wi wi-10d"
+            },
+            {
+                "date": "2025-01-14",
+                "temperature": 21.15,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-15",
+                "temperature": 20.7,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-16",
+                "temperature": 20.14,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-17",
+                "temperature": 20.63,
+                "description": "few clouds",
+                "icon": "wi wi-02n"
+            }
+        ],
+        "average_temperature": 20.646749999999997,
+        "temp_std_dev": 3.346163017173551
+    },
+    {
+        "current_weather": {
+            "city_name": "Bengaluru",
+            "temperature": 25.03,
+            "humidity": 73,
+            "description": "Broken clouds",
+            "wind_speed": 4.63,
+            "icon": "wi wi-04d"
+        },
+        "forecast": [
+            {
+                "date": "2025-01-13",
+                "temperature": 21.8,
+                "description": "light rain",
+                "icon": "wi wi-10d"
+            },
+            {
+                "date": "2025-01-14",
+                "temperature": 21.15,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-15",
+                "temperature": 20.7,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-16",
+                "temperature": 20.14,
+                "description": "overcast clouds",
+                "icon": "wi wi-04n"
+            },
+            {
+                "date": "2025-01-17",
+                "temperature": 20.63,
+                "description": "few clouds",
+                "icon": "wi wi-02n"
+            }
+        ],
+        "average_temperature": 20.646749999999997,
+        "temp_std_dev": 3.346163017173551
+    }
+]
